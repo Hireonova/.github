@@ -88,8 +88,9 @@ Whether you're a developer, data scientist, designer, or passionate job-seeker â
    ```
 
 ## Screenshots
-<img width="2844" height="1280" alt="image" src="https://github.com/user-attachments/assets/71945a3c-f512-43e2-bd7b-15d05d67ff8f" />
-<img width="2847" height="1275" alt="image" src="https://github.com/user-attachments/assets/1ffd3bad-ff01-4299-bbe6-1f1de6b3eb6d" />
+<img width="2844" height="1280" alt="image" src="https://i.postimg.cc/wMWQPRJr/Screenshot-2025-07-21-085330.png" />
+<img width="2847" height="1275" alt="image" src="https://i.postimg.cc/Df56mHDc/Screenshot-2025-07-21-085343.png" />
+<img width="2847" height="1275" alt="image" src="https://i.postimg.cc/Gh2QDznn/Screenshot-2025-07-21-085415.png" />
 
 
 ## ğŸ“¬ Join Us
